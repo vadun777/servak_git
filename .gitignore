@@ -1,1 +1,44 @@
+*.log
+settings.py
+-1.14-windows.xml
+.cache/
+.condarc
+.continuum/
+.gitconfig
+.idlerc/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.lesshst
+3D Objects/
+AppData/
+Contacts/
+Creative Cloud Files/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT
+NTUSER.DAT{97229c72-836b-11eb-b6b4-9cfce83a5682}.TM.blf
+NTUSER.DAT{97229c72-836b-11eb-b6b4-9cfce83a5682}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{97229c72-836b-11eb-b6b4-9cfce83a5682}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Untitled.ipynb
+Untitled1.ipynb
+Untitled2.ipynb
+Untitled3.ipynb
+Untitled4.ipynb
+Videos/
+__pycache__/
+anaconda3/
+new/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
 password.txt
+"\320\237\320\236\320\221\320\225\320\224\320\220 1.ipynb"
